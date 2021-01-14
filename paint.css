@@ -1,0 +1,29 @@
+#rojo{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}
+
+#verde{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+#azul{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+#paleta{
+    display: flex;
+}
+
+#lienzo{
+    height: 500px;
+    width: 800px;
+    background-color: blanchedalmond;
+  
+}
